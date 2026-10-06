@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0125-valid-palindrome) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -56,6 +57,7 @@
 | [0011-container-with-most-water](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0125-valid-palindrome) |
 ## Quicksort
 |  |
 | ------- |
