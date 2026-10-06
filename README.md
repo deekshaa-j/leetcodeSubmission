@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0268-missing-number) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -30,6 +31,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -51,4 +53,13 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
