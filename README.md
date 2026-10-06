@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0268-missing-number) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -24,6 +25,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -58,6 +60,7 @@
 | [0027-remove-element](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/deekshaa-j/leetcodeSubmission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Quicksort
 |  |
 | ------- |
